@@ -5,7 +5,8 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        int sum = add(3, 3); 
-        System.out.println("Sum: " + sum); 
+        int sum = add(4, 5); 
+        System.out.println("Sum: " + sum);
+			
     }
 }
